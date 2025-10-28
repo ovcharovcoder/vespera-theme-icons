@@ -1,0 +1,36 @@
+{
+  "name": "vespera-theme-icons",
+  "displayName": "Vespera Theme Icons",
+  "description": "A minimal, elegant icon theme designed to match the Vespera VS Code theme.",
+  "version": "1.0.0",
+  "publisher": "ovcharovcoder",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "vespera-theme-icons",
+        "label": "Vespera Theme Icons",
+        "path": "./vespera-icon-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ovcharovcoder/vespera-theme-icons"
+  },
+  "keywords": [
+    "vscode",
+    "theme",
+    "icons",
+    "vespera",
+    "minimal",
+    "dark"
+  ],
+  "license": "MIT"
+}
