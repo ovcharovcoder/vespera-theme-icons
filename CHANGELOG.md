@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-## [1.0.1 - 1.0.2] - 2025-10-29
+## [1.0.1 - 1.0.3] - 2025-10-29
 **Added**
 - Build tools: Added icons for Gulp (gulpfile.*), Webpack (webpack.*), and Composer.
 - Documents: Added support for Word (.doc, .docx), Excel (.xls, .xlsx, .csv), and PowerPoint (.ppt, .pptx).
@@ -26,4 +26,5 @@ All notable changes to this project will be documented in this file.
 - Custom icons for common file types: .js, .php, .html, .css, .json, .svg, .png, .jpg, .webp, .txt.
 - Unique folder and file visuals to enhance project structure readability.
 - Bright, atmospheric color palette inspired by the Vespera Theme aesthetic.
+
 
