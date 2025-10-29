@@ -1,4 +1,4 @@
-![Vespera Theme Icons Screenshot](https://raw.githubusercontent.com/ovcharovcoder/barva-theme-icons/main/banner.jpg)
+![Vespera Theme Icons Screenshot](https://raw.githubusercontent.com/ovcharovcoder/vespera-theme-icons/main/images/banner.jpg)
 
 # 🎨  Vespera Theme Icons for VS Code
 
