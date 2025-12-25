@@ -32,7 +32,7 @@ Andriy Ovcharov
 ---
 
 ## 🪪 License  
-Released under the [MIT License](https://github.com/ovcharovcoder/vespera-theme-icons/blob/main/LICENSE.txt)
+Released under the [MIT License](https://github.com/ovcharovcoder/vespera-theme-icons/blob/main/LICENSE)
 
 ---
 
